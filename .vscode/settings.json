@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.defaultProfile.linux": ""
+}
+
+{ 
+     "workbench.startupEditor": "newUntitledFile",
+"workbench.panel.defaultLocation": "bottom",
+"terminal.integrated.shellArgs.windows": ["-NoExit"]
+
+}
